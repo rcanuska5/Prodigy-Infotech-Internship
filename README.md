@@ -26,4 +26,5 @@ TASK 3: TIC-TAC-TOC WEB APPLICATION:-
 
 TASK 5: WEATHER APPLICATION:-
 
-![image](https://github.com/user-attachments/assets/a671a969-cdcf-41dc-a601-1777c1e6939e)
+![image](https://github.com/user-attachments/assets/131fe639-675d-4535-844e-604b2069a7c3)
+
