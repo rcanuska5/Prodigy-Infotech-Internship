@@ -2,8 +2,6 @@ TASK 1 : RESPONSIVE LANDING PAGE
 
 PAGE NAME : CarScrubz
 
-WEBSITE: [https://carscrubz.netlify.app/](https://carscrubz.netlify.app/)
-
 THEME : Car Washing Website
 
 DESCRIPTION:-
@@ -22,16 +20,16 @@ DESCRIPTION:-
 PROGRAMMING LANGUAGE: HTML, CSS, JAVACRIPT
 
 SCREENSHOT OF WEBSITE
+![image](https://github.com/user-attachments/assets/ce6fc121-2aa8-4446-ba88-e93611fde0b0)
 
-![01](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/7d94aa15-b7f8-4422-be30-2540b0d80f16)
+![image](https://github.com/user-attachments/assets/60d027ca-83ce-4268-8c0d-60696faa35a9)
 
-![02](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/e1f8f469-93aa-4632-a903-85ffea8e584d)
+![image](https://github.com/user-attachments/assets/4841509e-08b2-4da7-bc42-3c0f1a8a48c6)
 
-![03](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/92e2b7af-8e4e-46ac-9009-53ffeb6c1aa3)
+![image](https://github.com/user-attachments/assets/3e45b66b-3cbe-43c3-9fef-6d46bd0f4106)
 
-![04](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/121cd3d8-8b26-4fb1-b70a-fe5d7fb22da9)
+![image](https://github.com/user-attachments/assets/c33e4a72-0bc0-464c-a432-24bbb6742475)
 
-![05](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/5e3b9148-4333-4fc0-a9f8-d31cabcac116)
+![image](https://github.com/user-attachments/assets/d63e1fc8-c6f6-43e3-ac35-6b65c6ee7592)
 
-![06](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/6cea4b58-1219-40c8-b600-ac489797678a)
 
