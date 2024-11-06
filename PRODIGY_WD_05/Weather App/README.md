@@ -2,7 +2,6 @@ TASK 5 : WEATHER APPLICATION
 
 PAGE NAME : Weather app
 
-WEBSITE: https://weatherpocket.netlify.app/
 
 DESCRIPTION:-
 - Develop a webpage that retrieves weather information from a weather API, either based on the user's location or a location entered by the user.
@@ -18,8 +17,5 @@ DESCRIPTION:-
 
 SCREENSHOT OF THE WEBSITE:-
 
-![01](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/7909de4d-f779-4a66-bd71-6d83ec910c49)
-  
-![02](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/e430448e-48d2-4830-abb4-489e8653bc78)
 
-![03](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/ee329008-9565-46e0-8567-d76c53b4db19)
+
