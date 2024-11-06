@@ -3,7 +3,6 @@ TASK 3 : TIC-TAC-TOE WEB APPLICATION
 
 THEME : Tic-Tac-Toe Game
 
-WEBSITE: [https://ticktacktok.netlify.app/](https://ticktacktok.netlify.app/)
 
 DESCRIPTION:-
 
@@ -22,6 +21,8 @@ PROGRAMMING LANGUAGE: HTML, CSS, JAVACRIPT
 
 SCREENSHOT OF WEBSITE:-
 
-![01](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/0ffecc2d-0a07-46d5-8550-89df984036a9)
+![image](https://github.com/user-attachments/assets/f054939d-8479-4add-b160-cec8e1c74e62)
 
-![02](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/7edb18a9-d99a-4ae8-bc35-f22ef3dcd05a)
+
+![image](https://github.com/user-attachments/assets/c3b4008b-307b-4c72-a087-53232b9ada1a)
+
