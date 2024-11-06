@@ -14,24 +14,16 @@ OFFER LETTER:-
 
 TASK 1: RESPONSIVE LANDING PAGE:-
 
-WEBSITE: https://carscrubz.netlify.app/
-
 ![image](https://github.com/user-attachments/assets/d7221cbd-d40b-4bd1-9dbc-704bba77643e)
 
 TASK 2: STOPWATCH WEB APPLICATION:-
-
-WEBSITE: https://prodigytimer.netlify.app/
 
 ![image](https://github.com/user-attachments/assets/774d5a48-c834-43f5-ba21-ac1a0c6da941)
 
 TASK 3: TIC-TAC-TOC WEB APPLICATION:-
 
-WEBSITE: https://ticktacktok.netlify.app/
-
 ![image](https://github.com/user-attachments/assets/55b1af30-f9ac-4833-bf5d-2d19fe93511f)
 
 TASK 5: WEATHER APPLICATION:-
-
-WEBSITE: https://weatherpocket.netlify.app/
 
 ![image](https://github.com/user-attachments/assets/a671a969-cdcf-41dc-a601-1777c1e6939e)
