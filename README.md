@@ -10,7 +10,7 @@ OFFER LETTER:-
 
 ![OfferLetter1](https://github.com/user-attachments/assets/368c3601-1aa5-435b-939b-f82c594653c6)
 
-5 TASKS :-
+4 TASKS :-
 
 TASK 1: RESPONSIVE LANDING PAGE:-
 
